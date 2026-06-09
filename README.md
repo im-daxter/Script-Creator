@@ -16,7 +16,7 @@
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 English Version
 
 ### About
 
@@ -100,7 +100,7 @@ See the [LICENSE](LICENSE) file or visit [gnu.org/licenses/gpl-3.0](https://www.
 
 ---
 
-## 🇧🇷 Português Brasileiro
+## 🇧🇷 Versão em Português
 
 ### Sobre
 
