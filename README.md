@@ -40,7 +40,7 @@
 Clone this repository and give the script execution permission:
 
 ```bash
-git clone https://github.com/your-username/script_creator.git
+git clone https://github.com/im-daxter/script_creator.git
 cd script_creator
 chmod +x script_creator
 ```
@@ -77,8 +77,8 @@ This will:
 # Script   :
 # Descrição:
 # Versão   :
-# Autor    : Lhordin
-# Data     : 08/06/2026
+# Autor    : im-daxter
+# Data     : 01/01/2001
 # Licença  : GNU/GPL v3.0
 # ---------------------------
 # Uso:
@@ -124,7 +124,7 @@ See the [LICENSE](LICENSE) file or visit [gnu.org/licenses/gpl-3.0](https://www.
 Clone este repositório e conceda permissão de execução ao script:
 
 ```bash
-git clone https://github.com/seu-usuario/script_creator.git
+git clone https://github.com/im-daxter/script_creator.git
 cd script_creator
 chmod +x script_creator
 ```
@@ -161,8 +161,8 @@ Isso irá:
 # Script   :
 # Descrição:
 # Versão   :
-# Autor    : Lhordin
-# Data     : 08/06/2026
+# Autor    : im-daxter
+# Data     : 01/01/2000
 # Licença  : GNU/GPL v3.0
 # ---------------------------
 # Uso:
