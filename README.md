@@ -1,6 +1,4 @@
-<div align="center">
-
-# 🛠️ script_creator
+# 🛠️ Script-Creator
 
 **A shell script generator for quick and standardized Bash script scaffolding.**
 
@@ -11,8 +9,6 @@
 ![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square)
-
-</div>
 
 ---
 
